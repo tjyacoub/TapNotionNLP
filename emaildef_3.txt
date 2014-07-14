@@ -1,0 +1,3 @@
+email : a system for sending messages from one computer to another computer
+
+: messages that are sent electronically from one computer to another
